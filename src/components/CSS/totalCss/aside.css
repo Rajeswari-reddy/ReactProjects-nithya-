@@ -1,0 +1,135 @@
+/*aside*/
+
+.aside {
+  height: 870px;
+
+  margin-top: 40px;
+
+  box-shadow: 0px 0px 3px 0px #a9a7a7;
+}
+.google-sec {
+  padding: 20px;
+}
+
+.image-content-container3 {
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-container3 img {
+  max-width: 100%;
+  height: 90px;
+}
+.content-container3 {
+  text-align: center;
+  margin-left: 50px;
+}
+/*Short Listed*/
+.content-container4 {
+  width: 30%;
+  background-color: #dfdede;
+  text-align: center;
+}
+
+.shortList {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@media (max-width: 400px) {
+  .image-container3 img {
+    margin-left: 20px;
+  }
+  .image-content-container3 {
+    margin-left: 40px;
+  }
+  .content-container3 {
+    width: auto;
+    margin-left: auto;
+  }
+}
+@media (min-width: 400px) and (max-width: 700px) {
+  .google-sec {
+    padding: auto;
+  }
+
+  .image-content-container3 {
+    margin-left: 40px;
+  }
+
+  .content-container3 {
+    width: auto;
+    margin-left: auto;
+  }
+}
+@media (min-width: 700px) and (max-width: 900px) {
+  .google-sec {
+    padding: auto;
+  }
+  .image-container3 img {
+    margin-left: 80px;
+  }
+  .image-content-container3 {
+    margin-left: auto;
+  }
+  .content-container4 {
+    width: 40%;
+  }
+}
+@media (min-width: 900px) and (max-width: 1024px) {
+  .google-sec {
+    padding: auto;
+  }
+  .image-container3 img {
+    margin-left: 100px;
+  }
+  .image-content-container3 {
+    margin-left: auto;
+  }
+  .content-container4 {
+    width: 40%;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1200px) {
+  .google-sec {
+    padding: auto;
+  }
+  .image-container3 img {
+    margin-left: 130px;
+  }
+  .content-container4 {
+    width: 40%;
+  }
+  .image-content-container3 {
+    margin-left: auto;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1800px) {
+  .google-sec {
+    padding: auto;
+  }
+  .image-container3 img {
+    margin-left: 12vw;
+  }
+  .content-container4 {
+    width: 40%;
+  }
+  .image-content-container3 {
+    margin-left: auto;
+  }
+}
+@media (max-width: 3000px) {
+  .google-sec {
+    padding: auto;
+  }
+  .image-container3 img {
+    margin-left: 14vw;
+  }
+  .content-container4 {
+    width: 40%;
+  }
+  .image-content-container3 {
+    margin-left: auto;
+  }
+}

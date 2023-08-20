@@ -1,0 +1,138 @@
+.asideForm {
+  border: 2px solid #8b2bdf;
+  width: auto;
+  display: block;
+  height: auto;
+}
+.adv-one .adv-btn {
+  background-color: #0074b7;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  width: 250px;
+  margin-left: 60px;
+  margin-top: 10px;
+}
+.adv-head1 {
+  color: #0e86d4;
+  margin-left: 20px;
+}
+.adv-head2 {
+  color: #9370db;
+  margin-left: 20px;
+}
+.adv-head3 {
+  color: #9370db;
+  margin-left: 20px;
+}
+
+@media (max-width: 480px) {
+  .adv-one .adv-btn {
+    width: 100%;
+    margin-left: 0;
+    font-size: small;
+  }
+
+  .adv-head1,
+  .adv-head2,
+  .adv-head3 {
+    font-size: 8px;
+  }
+}
+@media (min-width: 400px) and (max-width: 700px) {
+  .adv-one {
+    text-align: center;
+  }
+
+  .adv-one .adv-btn {
+    width: auto;
+    margin-right: 30px;
+    font-size: x-small;
+  }
+
+  .adv-head1,
+  .adv-head2,
+  .adv-head3 {
+    margin-right: 10px;
+    text-align: center;
+    font-size: small;
+  }
+}
+@media (min-width: 700px) and (max-width: 900px) {
+  .adv-one {
+    text-align: center;
+  }
+
+  .adv-one .adv-btn {
+    width: auto;
+    margin-right: 30px;
+    font-size: x-small;
+  }
+
+  .adv-head1,
+  .adv-head2,
+  .adv-head3 {
+    margin-right: 10px;
+    text-align: center;
+    font-size: small;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1024px) {
+  .adv-one {
+    text-align: center;
+  }
+
+  .adv-one .adv-btn {
+    width: auto;
+    margin-right: 30px;
+    font-size: x-small;
+  }
+
+  .adv-head1,
+  .adv-head2,
+  .adv-head3 {
+    margin-right: 10px;
+    text-align: center;
+    font-size: small;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1200px) {
+  .adv-one {
+    text-align: center;
+  }
+
+  .adv-one .adv-btn {
+    width: auto;
+    margin-right: 30px;
+    font-size: medium;
+  }
+
+  .adv-head1,
+  .adv-head2,
+  .adv-head3 {
+    margin-right: 10px;
+    text-align: center;
+    font-size: medium;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1370px) {
+  .adv-one {
+    text-align: center;
+  }
+
+  .adv-one .adv-btn {
+    width: auto;
+    margin-right: 30px;
+    font-size: large;
+  }
+
+  .adv-head1,
+  .adv-head2,
+  .adv-head3 {
+    margin-right: 10px;
+    text-align: center;
+    font-size: medium;
+  }
+}

@@ -1,0 +1,14 @@
+.h4-text {
+  width: 97%;
+  background-color: #a5a0a0;
+  color: black;
+  font-size: 20px;
+  padding: 8px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+@media (max-width: 1200px) {
+  .h4-text {
+    width: auto;
+  }
+}

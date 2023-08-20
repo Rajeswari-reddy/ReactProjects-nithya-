@@ -1,0 +1,236 @@
+/*
+
+
+.h4-text {
+  width: 97%;
+  background-color: #a5a0a0;
+  color: black;
+  font-size: 19px;
+  padding: 8px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+.total {
+  width: 100%;
+  display: flex;
+}
+.aside1 {
+  width: 30%;
+}
+.aside2 {
+  width: 70%;
+}
+.image-content-container {
+  display: flex;
+  align-items: center;
+
+  padding: 10px;
+  margin: 10px;
+  width: 400px;
+
+  box-shadow: 0px 0px 3px 0px #a9a7a7;
+}
+
+.image-container {
+  flex: 0 0 10%;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.content-container {
+  flex: 40%;
+  padding-left: 50px;
+}
+.content-container p {
+  margin-top: -10px;
+}
+.para {
+  margin-left: 150px;
+}
+.parentBlock {
+  display: flex;
+}
+.block {
+  height: 580px;
+  border: 1px solid #8b2bdf;
+}
+*/
+/*No job*/
+/*
+.image-content-container1 {
+  display: block;
+  justify-content: center;
+
+  padding: 100px;
+  margin: 10px;
+  width: 400px;
+  height: 340px;
+  border: 2px solid #ded7d9;
+
+  box-shadow: 0px 0px 3px 0px #e1dfdf;
+}
+
+.image-container1 img {
+  max-width: 100%;
+  height: auto;
+  margin: 50px 50px 0px 50px;
+}
+.content-container1 {
+  margin-top: 30px;
+  margin-left: 50px;
+  font-size: 20px;
+}
+*/
+/*Advertise*/
+/*
+.image-content-container2 {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  width: 96%;
+  background-color: rgb(255, 204, 143);
+  box-shadow: 3px 3px 10px 10px #a9a7a7;
+}
+
+.image-container2 img {
+  max-width: 100%;
+  height: auto;
+}
+.content-container2 {
+  margin-left: 100px;
+}
+.content-container2 .btn {
+  margin-left: 600px;
+
+  padding: 10px;
+  background-color: #8b2bdf;
+  font-size: 20px;
+  color: #fff;
+  border-radius: 30px 0px 30px 0px;
+  outline: navy;
+}
+*/
+/*aside*/
+/*
+.aside {
+  height: 870px;
+  border: 2px solid dodgerblue;
+  margin-top: 40px;
+
+  box-shadow: 0px 0px 3px 0px #a9a7a7;
+}
+.google-sec {
+  padding: 20px;
+}
+
+.image-content-container3 {
+  display: block;
+  align-items: center;
+}
+
+.image-container3 img {
+  max-width: 100%;
+  height: auto;
+  margin-left: 180px;
+}
+.content-container3 {
+  text-align: center;
+  margin-left: 50px;
+}
+*/
+
+/*Short Listed*/
+/*
+.content-container4 {
+  width: 30%;
+  background-color: #dfdede;
+  text-align: center;
+}
+
+.shortList {
+  display: flex;
+  justify-content: space-around;
+}
+.saveRecent {
+  display: flex;
+  padding-top: 40px;
+  padding: 50px;
+}
+.total1 {
+  display: flex;
+  width: 100%;
+}
+.aside3 {
+  width: 28%;
+  height: 1300px;
+  border: 2px solid red;
+  box-shadow: 0px 0px 3px 0px #a9a7a7;
+  padding: 20px;
+  margin: 5px;
+}
+.aside4 {
+  width: 70%;
+  box-shadow: 3px 3px 10px 10px #a9a7a7;
+  display: block;
+  height: 1350px;
+  border: 1px solid brown;
+}
+
+.asideForm {
+  border: 2px solid #8b2bdf;
+  width: "350px";
+  display: block;
+  height: 1320px;
+}
+
+.corporate {
+  margin: 20px;
+}
+.slide {
+  margin: 30px;
+}
+.total2 {
+  width: 80%;
+  display: block;
+
+  border: 2px solid green;
+  margin-left: 65px;
+  margin-top: -60px;
+}
+.image-content-container5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.point {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.point p {
+  margin-left: 20px;
+}
+.fixed-sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 120px;
+  height: 100%;
+  padding: 20px;
+
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.fixed-sidebar button {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  position: relative;
+}
+*/

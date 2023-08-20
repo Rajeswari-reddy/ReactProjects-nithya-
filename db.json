@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "job": "NodeJs",
+      "location": "Hyderabad",
+      "image": "/Images/angular.png",
+      "skills": "Html/CSS,JS ,React,Node",
+      "postedDate": "2 days ago"
+    },
+    {
+      "id": 2,
+      "job": "Reactjs",
+      "location": "Chennai",
+      "image": "./Images/angular.png",
+      "skills": "Html/CSS,JS ,React",
+      "postedDate": "3 days ago"
+    },
+    {
+      "id": 3,
+      "job": "Java",
+      "location": "Hyderabad",
+      "image": "../Images/angular.png",
+      "skills": "Java,SpringBoot,Sql",
+      "postedDate": "4 days ago"
+    },
+    {
+      "id": 4,
+      "job": "Reactjs",
+      "location": "Hyderabad",
+      "image": "Images/angular.png",
+      "skills": "Html/CSS,JS ,Angular",
+      "postedDate": "5 days ago"
+    }
+  ]
+}

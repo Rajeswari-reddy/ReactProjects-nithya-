@@ -1,0 +1,51 @@
+.parentBlock {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  position: absolute;
+  left: 0;
+}
+.block1 {
+  width: 50%;
+  height: auto;
+}
+.block2 {
+  width: 50%;
+  height: auto;
+}
+.block {
+  height: 580px;
+
+  width: 100%;
+  position: relative;
+}
+@media (max-width: 400px) {
+  .block1 {
+    padding-top: 20px;
+  }
+  .block2 {
+    display: none;
+  }
+}
+@media (min-width: 400px) and (max-width: 700px) {
+  .block2 {
+    display: none;
+  }
+  .block1 {
+    padding-top: 20px;
+    padding-left: 40px;
+  }
+}
+@media (min-width: 700px) and (max-width: 900px) {
+  .block1 {
+    padding-top: 30px;
+  }
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .block1 {
+    padding-top: 30px;
+  }
+  .parentBlock {
+    flex-direction: row;
+  }
+}

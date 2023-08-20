@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "job": "NodeJs",
+    "location": "Hyderabad",
+    "image": "/Images/node.jpg",
+    "skills": "Html/CSS,JS ,React,Node",
+    "postedDate": "2 days ago"
+  },
+  {
+    "id": 2,
+    "job": "Reactjs",
+    "location": "Chennai",
+    "image": "/Images/reactjs.png",
+    "skills": "Html/CSS,JS ,React",
+    "postedDate": "3 days ago"
+  },
+  {
+    "id": 3,
+    "job": "Java",
+    "location": "Chennai",
+    "image": "/Images/java.png",
+    "skills": "Java,SpringBoot,Sql",
+    "postedDate": "4 days ago"
+  },
+  {
+    "id": 4,
+    "job": "Reactjs",
+    "location": "Bangalore",
+    "image": "/Images/ractjs.png",
+    "skills": "Html/CSS,JS ,Angular",
+    "postedDate": "5 days ago"
+  }
+]

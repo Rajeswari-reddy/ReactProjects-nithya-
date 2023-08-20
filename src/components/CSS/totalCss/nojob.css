@@ -1,0 +1,40 @@
+/*No job*/
+.image-content-container1 {
+  display: block;
+  justify-content: center;
+
+  padding: 100px;
+  margin: 10px;
+  width: auto;
+  height: 340px;
+  border: 2px solid #ded7d9;
+
+  box-shadow: 0px 0px 3px 0px #e1dfdf;
+}
+
+.image-container1 img {
+  max-width: auto;
+  height: auto;
+  margin: 50px 50px 0px 50px;
+}
+.content-container1 {
+  margin-top: 30px;
+  margin-left: 50px;
+  font-size: 20px;
+}
+
+@media (min-width: 700px) and (max-width: 900px) {
+  .image-content-container1 {
+    padding: 10px;
+    margin: 10px;
+    height: 540px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1200px) {
+  .image-content-container1 {
+    padding: 10px;
+    margin: 10px;
+    height: 540px;
+  }
+}

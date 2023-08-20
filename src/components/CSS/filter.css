@@ -1,0 +1,111 @@
+.input {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.filter {
+  border: 3px solid #fff;
+  background-color: rgba(21, 21, 67, 0.678);
+  box-shadow: 5px 8px 5px #7b7b7b;
+  color: #fff;
+  font-size: 18px;
+  width: 100%;
+  height: 300px;
+  margin-top: 20px;
+}
+input {
+  height: "35px";
+  width: "350px";
+}
+
+button {
+  margin-right: "390px";
+  height: "40px";
+  width: "150px";
+}
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+@media (max-width: 700px) {
+  .h1-top {
+    font-size: 20px;
+  }
+  input {
+    width: 100px;
+    height: 25px;
+  }
+  button {
+    width: 100px;
+    height: 30px;
+  }
+
+  .filter {
+    height: auto;
+  }
+  .results {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+@media (min-width: 700px) and (max-width: 1024px) {
+  .filter {
+    height: auto;
+  }
+  .h1-top {
+    font-size: 30px;
+  }
+  input {
+    width: 200px;
+    height: 30px;
+  }
+  button {
+    width: 100px;
+    height: 30px;
+  }
+  .results {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1200px) {
+  .filter {
+    height: auto;
+  }
+  .h1-top {
+    font-size: 36px;
+  }
+  input {
+    width: 250px;
+    height: 30px;
+  }
+  button {
+    width: 100px;
+    height: 30px;
+  }
+  .results {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+@media (min-width: 1200px) {
+  .filter {
+    height: auto;
+  }
+  .h1-top {
+    font-size: 40px;
+  }
+  input {
+    width: 300px;
+    height: 40px;
+  }
+  button {
+    width: 100px;
+    height: 40px;
+  }
+  .results {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
